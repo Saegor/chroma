@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://cvtsm6wg2iwwh"]
+
+[ext_resource type="Script" path="res://Main.gd" id="1_yonso"]
+[ext_resource type="Texture2D" uid="uid://bfxy0rqqyrkj7" path="res://circle.svg" id="3_2cgvy"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_yonso")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+self_modulate = Color(0.933333, 0.933333, 0.560784, 1)
+texture = ExtResource("3_2cgvy")
