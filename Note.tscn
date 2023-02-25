@@ -38,11 +38,7 @@ tracks/2/keys = {
 "times": PackedFloat32Array(0),
 "transitions": PackedFloat32Array(1),
 "update": 0,
-<<<<<<< HEAD
-"values": [Color(1, 1, 1, 0.666667)]
-=======
 "values": [Color(1, 1, 1, 0.501961)]
->>>>>>> 14be6a5 (Update)
 }
 
 [sub_resource type="Animation" id="Animation_mt5xi"]
@@ -69,15 +65,7 @@ tracks/1/keys = {
 "times": PackedFloat32Array(0, 0.3),
 "transitions": PackedFloat32Array(2, 1),
 "update": 0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-"values": [-18.0, -80.0]
-=======
-"values": [-12.0, -80.0]
->>>>>>> 14be6a5 (Update)
-=======
 "values": [0.0, -80.0]
->>>>>>> d1d50a6 (Update)
 }
 tracks/2/type = "value"
 tracks/2/imported = false
@@ -89,11 +77,7 @@ tracks/2/keys = {
 "times": PackedFloat32Array(0, 0.3),
 "transitions": PackedFloat32Array(2, 1),
 "update": 0,
-<<<<<<< HEAD
-"values": [Color(0.933333, 0.933333, 0.560784, 0.752941), Color(0.933333, 0.933333, 0.560784, 0)]
-=======
 "values": [Color(1, 1, 1, 0.501961), Color(1, 1, 1, 0)]
->>>>>>> 14be6a5 (Update)
 }
 tracks/3/type = "method"
 tracks/3/imported = false
@@ -134,15 +118,7 @@ tracks/1/keys = {
 "times": PackedFloat32Array(0, 0.1),
 "transitions": PackedFloat32Array(0.125, 1),
 "update": 0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-"values": [-80.0, -18.0]
-=======
-"values": [-80.0, -12.0]
->>>>>>> 14be6a5 (Update)
-=======
 "values": [-80.0, 0.0]
->>>>>>> d1d50a6 (Update)
 }
 tracks/2/type = "value"
 tracks/2/imported = false
@@ -154,11 +130,7 @@ tracks/2/keys = {
 "times": PackedFloat32Array(0, 0.1),
 "transitions": PackedFloat32Array(0.125, 1),
 "update": 0,
-<<<<<<< HEAD
-"values": [Color(0.933333, 0.933333, 0.560784, 0), Color(0.933333, 0.933333, 0.560784, 0.752941)]
-=======
 "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0.501961)]
->>>>>>> 14be6a5 (Update)
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_jgq1k"]
@@ -177,11 +149,7 @@ volume_db = -60.0
 [node name="Line2D" type="Line2D" parent="."]
 points = PackedVector2Array(0, 0, -256, 0)
 width = 16.0
-<<<<<<< HEAD
-default_color = Color(1, 1, 1, 0.666667)
-=======
 default_color = Color(1, 1, 1, 0.501961)
->>>>>>> 14be6a5 (Update)
 begin_cap_mode = 2
 end_cap_mode = 2
 
