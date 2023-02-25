@@ -22,7 +22,15 @@ func _unhandled_input(event):
 
         var angle: float = -pos.angle_to(Vector2.LEFT)
 
+<<<<<<< HEAD
+<<<<<<< HEAD
         angle = (2 * snappedf(angle, TAU/12.) + angle)/3
+=======
+        angle = (snappedf(angle, TAU/12.) + angle)/2
+>>>>>>> 14be6a5 (Update)
+=======
+        angle = (2 * snappedf(angle, TAU/12.) + angle)/3
+>>>>>>> d1d50a6 (Update)
         note.get_node("Line2D").set_rotation(angle)
 
         var pitch: float = pow(2, fmod(angle/TAU, 1))

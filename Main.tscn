@@ -9,5 +9,9 @@ script = ExtResource("1_yonso")
 [node name="Camera2D" type="Camera2D" parent="."]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
+<<<<<<< HEAD
 self_modulate = Color(0.933333, 0.933333, 0.560784, 1)
+=======
+self_modulate = Color(1, 1, 1, 0.501961)
+>>>>>>> 14be6a5 (Update)
 texture = ExtResource("3_2cgvy")
