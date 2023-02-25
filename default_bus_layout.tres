@@ -8,6 +8,7 @@ room_size = 0.0
 resource_name = "LowPassFilter"
 
 [resource]
+bus/0/volume_db = -11.952
 bus/0/effect/0/effect = SubResource("AudioEffectReverb_6xbbo")
 bus/0/effect/0/enabled = true
 bus/0/effect/1/effect = SubResource("AudioEffectLowPassFilter_rlmx3")
