@@ -5,4 +5,4 @@ This synthesizer uses an auditory illusion to cover the entire sound space with 
 
 #shepardtone #microtonality
 
-![Screenshot_20230226-221442](https://user-images.githubusercontent.com/3527333/221437820-add2410d-ceaa-4f23-b851-67212385e73b.png)
+![Screenshot_20230226-221442](https://user-images.githubusercontent.com/3527333/221437833-9db5b35e-ebb5-4bfe-af2a-9f1c807ce5fb.png)
